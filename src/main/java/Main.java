@@ -8,9 +8,9 @@ public class Main {
         post.phone = "+7(999)-999-99-99";
         post.subscription = true;
         post.birthday = new FromDate();
-        post.birthday.day = 13;
-        post.birthday.month = 6;
-        post.birthday.year = 1999;
+        post.birthday.day = 1;
+        post.birthday.month = 1;
+        post.birthday.year = 2000;
 
     }
 }
